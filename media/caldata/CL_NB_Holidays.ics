@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunderbird Website//Chile\, Ñuble Holiday Calendar//
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20220820
+DTEND;VALUE=DATE:20220821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20230820
+DTEND;VALUE=DATE:20230821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20240820
+DTEND;VALUE=DATE:20240821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20290820
+DTEND;VALUE=DATE:20290821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacimiento del Prócer de la Independencia (Chillán y Chillán Vi
+ ejo) [Nativity of Bernardo O'Higgins]
+DTSTART;VALUE=DATE:20300820
+DTEND;VALUE=DATE:20300821
+END:VEVENT
+END:VCALENDAR

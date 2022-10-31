@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thunderbird Website//Chile\, Arica y Parinacota Holiday Calendar
+ //
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20220607
+DTEND;VALUE=DATE:20220608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20290607
+DTEND;VALUE=DATE:20290608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asalto y Toma del Morro de Arica [Assault and Capture of Cape Aric
+ a]
+DTSTART;VALUE=DATE:20300607
+DTEND;VALUE=DATE:20300608
+END:VEVENT
+END:VCALENDAR
